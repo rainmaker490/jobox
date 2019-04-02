@@ -8,7 +8,7 @@
 
 import UIKit
 
-class PugCollectionViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
+class PugCollectionViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource {
     private var _pugsFactory = PugsFactory()
     private var _collectionView: UICollectionView!
     
