@@ -9,16 +9,16 @@
 import Foundation
 
 /*
- *   http://30.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco1_500.jpg\"/><br/> <br/><img
- *   src=\"http://28.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco8_500.jpg\"/><br/> <br/><img
- *   src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco3_500.jpg\"/><br/> <br/><img
- *   src=\"http://30.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco9_500.jpg\"/><br/> <br/><img
- *   src=\"http://25.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco6_500.jpg\"/><br/> <br/><img
- *   src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco2_500.jpg\"/><br/> <br/><img
- *   src=\"http://27.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco4_500.jpg\"/><br/> <br/><img
- *   src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco7_500.jpg\"/><br/> <br/><img
- *   src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco10_500.jpg\"/><br/> <br/><img
- *   src=\"http://26.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco5_500.jpg
+ * http://30.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco1_500.jpg\"/><br/> <br/><img
+ * src=\"http://28.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco8_500.jpg\"/><br/> <br/><img
+ * src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco3_500.jpg\"/><br/> <br/><img
+ * src=\"http://30.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco9_500.jpg\"/><br/> <br/><img
+ * src=\"http://25.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco6_500.jpg\"/><br/> <br/><img
+ * src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco2_500.jpg\"/><br/> <br/><img
+ * src=\"http://27.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco4_500.jpg\"/><br/> <br/><img
+ * src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco7_500.jpg\"/><br/> <br/><img
+ * src=\"http://24.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco10_500.jpg\"/><br/> <br/><img
+ * src=\"http://26.media.tumblr.com/tumblr_lsx4nsg5Hj1qa25vco5_500.jpg
  * Some url strings from the endpoint are in the above format.
  * The pugImageUrls computed property parses the above string
  * into an array of URLs.
